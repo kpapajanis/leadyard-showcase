@@ -115,4 +115,4 @@ In production since 2026, with contractors onboarded in the GTA. Built and run b
 ## About
 
 Built by **Kirko Papajanis** under [KRROP](https://krrop.com).
-More about me at [k18z.com](https://k18z.com).
+More about me at [k17z.com](https://k17z.com).
